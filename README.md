@@ -10,7 +10,7 @@ Hi there, I'm Natalia 👋
 🔄 I combine technical expertise with strong project coordination skills  
 
 ## 📫 How to reach me:
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/)  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/nchoszczyk)  
 - [natalia.choszczyk@gmail.com](mailto:natalia.choszczyk@gmail.com)
 
 ## 💻 Tech Stack:
